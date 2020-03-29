@@ -1,6 +1,8 @@
 package Instrument;
 
-public class Bass extends Instrument {
+import Behaviours.IPlay;
+
+public class Bass extends Instrument implements IPlay {
     private int numberOfStrings;
     private String effectsPedal;
 
@@ -16,5 +18,9 @@ public class Bass extends Instrument {
 
     public String getEffectsPedal() {
         return effectsPedal;
+    }
+
+    public String play(String sound) {
+        return sound;
     }
 }

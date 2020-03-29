@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec79f266-5e7b-40bf-a269-a4d3ec0f43a1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Instrument/Bass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Instrument/Bass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Instrument/Drums.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Instrument/Drums.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Instrument/ElectricGuitar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Instrument/ElectricGuitar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Instrument/Saxophone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Instrument/Saxophone.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

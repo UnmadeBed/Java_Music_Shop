@@ -1,6 +1,8 @@
 package Instrument;
 
-public class ElectricGuitar extends Instrument{
+import Behaviours.IPlay;
+
+public class ElectricGuitar extends Instrument implements IPlay {
     private int numberOfStrings;
     private String effectsPedal;
     private boolean whammy;
@@ -22,5 +24,9 @@ public class ElectricGuitar extends Instrument{
 
     public boolean hasWhammy() {
         return whammy;
+    }
+
+    public String play(String sound) {
+        return sound;
     }
 }

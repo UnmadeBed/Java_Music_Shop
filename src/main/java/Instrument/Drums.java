@@ -1,6 +1,8 @@
 package Instrument;
 
-public class Drums extends Instrument {
+import Behaviours.IPlay;
+
+public class Drums extends Instrument implements IPlay {
     private int numberOfCymbals;
     private boolean hasSeat;
 
@@ -16,5 +18,9 @@ public class Drums extends Instrument {
 
     public boolean hasSeat() {
         return hasSeat;
+    }
+
+    public String play(String sound) {
+        return sound;
     }
 }
