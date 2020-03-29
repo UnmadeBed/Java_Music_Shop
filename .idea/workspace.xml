@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec79f266-5e7b-40bf-a269-a4d3ec0f43a1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Instrument/Instrument.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Instruments/Bass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Instrument/Bass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Instruments/Drums.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Instrument/Drums.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Instruments/ElectricGuitar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Instrument/ElectricGuitar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Instruments/Instrument.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Instruments/Saxophone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Instrument/Saxophone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Instrument/Bass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Instrument/Bass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,10 +56,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="564" y="554" key="#com.intellij.ide.util.MemberChooser" timestamp="1585517164966">
+    <state x="564" y="554" key="#com.intellij.ide.util.MemberChooser" timestamp="1585517497830">
       <screen x="0" y="0" width="3008" height="1692" />
     </state>
-    <state x="564" y="554" key="#com.intellij.ide.util.MemberChooser/0.0.3008.1692/-1680.324.1680.1050@0.0.3008.1692" timestamp="1585517164966" />
+    <state x="564" y="554" key="#com.intellij.ide.util.MemberChooser/0.0.3008.1692/-1680.324.1680.1050@0.0.3008.1692" timestamp="1585517497830" />
     <state x="1181" y="664" key="com.intellij.ide.util.TipDialog" timestamp="1585492158956">
       <screen x="0" y="23" width="3008" height="1617" />
     </state>
