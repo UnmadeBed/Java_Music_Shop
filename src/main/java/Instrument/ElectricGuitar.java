@@ -1,4 +1,4 @@
-package Instruments;
+package Instrument;
 
 public class ElectricGuitar {
 }
