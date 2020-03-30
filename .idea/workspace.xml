@@ -3,18 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ec79f266-5e7b-40bf-a269-a4d3ec0f43a1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Accessories/Cymbal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Accessories/Cymbal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Accessories/DrumSticks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Accessories/DrumSticks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Accessories/GuitarStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Accessories/GuitarStrings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Accessories/SheetMuisc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Accessories/SheetMusic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Behaviours/IPlay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behaviours/IPlay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Behaviours/ISell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behaviours/ISell.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Instrument/Bass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Instrument/Bass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Instrument/Drums.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Instrument/Drums.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Instrument/ElectricGuitar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Instrument/ElectricGuitar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Instrument/Instrument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Instrument/Instrument.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Instrument/Saxophone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Instrument/Saxophone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MusicShop/Shop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MusicShop/Shop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,22 +117,22 @@
     </state>
     <state x="315" y="344" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1585529744182" />
     <state x="564" y="554" key="#com.intellij.ide.util.MemberChooser/0.0.3008.1692/-1680.324.1680.1050@0.0.3008.1692" timestamp="1585517497830" />
-    <state width="1130" height="295" key="GridCell.Tab.0.bottom" timestamp="1585530655301">
+    <state width="1130" height="295" key="GridCell.Tab.0.bottom" timestamp="1585554800621">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1130" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1585530655301" />
-    <state width="1130" height="295" key="GridCell.Tab.0.center" timestamp="1585530655299">
+    <state width="1130" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1585554800621" />
+    <state width="1130" height="295" key="GridCell.Tab.0.center" timestamp="1585554800619">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1130" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1585530655299" />
-    <state width="1130" height="295" key="GridCell.Tab.0.left" timestamp="1585530655298">
+    <state width="1130" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1585554800619" />
+    <state width="1130" height="295" key="GridCell.Tab.0.left" timestamp="1585554800618">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1130" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1585530655298" />
-    <state width="1130" height="295" key="GridCell.Tab.0.right" timestamp="1585530655300">
+    <state width="1130" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1585554800618" />
+    <state width="1130" height="295" key="GridCell.Tab.0.right" timestamp="1585554800620">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1130" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1585530655300" />
+    <state width="1130" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1585554800620" />
     <state x="1181" y="664" key="com.intellij.ide.util.TipDialog" timestamp="1585492158956">
       <screen x="0" y="23" width="3008" height="1617" />
     </state>
