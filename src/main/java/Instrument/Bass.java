@@ -6,8 +6,8 @@ public class Bass extends Instrument implements IPlay {
     private int numberOfStrings;
     private String effectsPedal;
 
-    public Bass(String type, String material, String colour) {
-        super(type, material, colour);
+    public Bass(String type, String material, String colour, double buyingCost, double sellingPrice) {
+        super(type, material, colour, buyingCost, sellingPrice);
                 this.numberOfStrings = numberOfStrings;
                 this.effectsPedal = effectsPedal;
     }
@@ -20,7 +20,7 @@ public class Bass extends Instrument implements IPlay {
         return effectsPedal;
     }
 
-    public String play(String sound) {
-        return sound;
+    public String play() {
+        return "Twong";
     }
 }

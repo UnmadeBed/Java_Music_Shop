@@ -6,8 +6,8 @@ public class Drums extends Instrument implements IPlay {
     private int numberOfCymbals;
     private boolean hasSeat;
 
-    public Drums(String type, String material, String colour) {
-        super(type, material, colour);
+    public Drums(String type, String material, String colour, double buyingCost, double sellingPrice) {
+        super(type, material, colour, buyingCost, sellingPrice);
         this.numberOfCymbals = numberOfCymbals;
         this.hasSeat = hasSeat;
     }
@@ -20,7 +20,7 @@ public class Drums extends Instrument implements IPlay {
         return hasSeat;
     }
 
-    public String play(String sound) {
-        return sound;
+    public String play() {
+        return "Badumtish";
     }
 }

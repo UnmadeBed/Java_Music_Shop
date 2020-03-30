@@ -2,9 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec79f266-5e7b-40bf-a269-a4d3ec0f43a1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Accessories/Cymbal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Accessories/Cymbal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Accessories/DrumSticks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Accessories/DrumSticks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Accessories/GuitarStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Accessories/GuitarStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Accessories/SheetMuisc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Accessories/SheetMusic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Behaviours/IPlay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behaviours/IPlay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Behaviours/ISell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behaviours/ISell.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Instrument/Bass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Instrument/Bass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Instrument/Drums.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Instrument/Drums.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Instrument/ElectricGuitar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Instrument/ElectricGuitar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Instrument/Instrument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Instrument/Instrument.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Instrument/Saxophone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Instrument/Saxophone.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +54,61 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
+  <component name="RunManager" selected="JUnit.All in MusicShop">
+    <configuration name="All in MusicShop" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MusicShop" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CymbalTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MusicShop" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CymbalTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DrumSticksTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MusicShop" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DrumSticksTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GuitarStringsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MusicShop" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GuitarStringsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SheetMusicTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MusicShop" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SheetMusicTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in MusicShop" />
+        <item itemvalue="JUnit.GuitarStringsTest" />
+        <item itemvalue="JUnit.SheetMusicTest" />
+        <item itemvalue="JUnit.DrumSticksTest" />
+        <item itemvalue="JUnit.CymbalTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -59,14 +123,38 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="315" y="344" key="#com.intellij.ide.util.MemberChooser" timestamp="1585519829138">
+    <state x="315" y="344" key="#com.intellij.ide.util.MemberChooser" timestamp="1585529744182">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="315" y="344" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1585519829138" />
+    <state x="315" y="344" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1585529744182" />
     <state x="564" y="554" key="#com.intellij.ide.util.MemberChooser/0.0.3008.1692/-1680.324.1680.1050@0.0.3008.1692" timestamp="1585517497830" />
+    <state width="1130" height="295" key="GridCell.Tab.0.bottom" timestamp="1585530655301">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1130" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1585530655301" />
+    <state width="1130" height="295" key="GridCell.Tab.0.center" timestamp="1585530655299">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1130" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1585530655299" />
+    <state width="1130" height="295" key="GridCell.Tab.0.left" timestamp="1585530655298">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1130" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1585530655298" />
+    <state width="1130" height="295" key="GridCell.Tab.0.right" timestamp="1585530655300">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1130" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1585530655300" />
     <state x="1181" y="664" key="com.intellij.ide.util.TipDialog" timestamp="1585492158956">
       <screen x="0" y="23" width="3008" height="1617" />
     </state>
     <state x="1181" y="664" key="com.intellij.ide.util.TipDialog/0.23.3008.1617/-1680.347.1680.1027@0.23.3008.1617" timestamp="1585492158956" />
+    <state x="274" y="148" key="refactoring.ChangeSignatureDialog" timestamp="1585520517946">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="274" y="148" key="refactoring.ChangeSignatureDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1585520517946" />
+    <state x="251" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1585529696690">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="251" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1585529696690" />
   </component>
 </project>

@@ -7,11 +7,12 @@ public class ElectricGuitar extends Instrument implements IPlay {
     private String effectsPedal;
     private boolean whammy;
 
-    public ElectricGuitar(String type, String material, String colour) {
-        super(type, material, colour);
+    public ElectricGuitar(String type, String material, String colour, double buyingCost, double sellingPrice) {
+        super(type, material, colour, buyingCost, sellingPrice);
         this.numberOfStrings = numberOfStrings;
         this.effectsPedal = effectsPedal;
         this.whammy = whammy;
+
     }
 
     public int getNumberOfStrings() {
@@ -26,7 +27,7 @@ public class ElectricGuitar extends Instrument implements IPlay {
         return whammy;
     }
 
-    public String play(String sound) {
-        return sound;
+    public String play() {
+        return "Twang";
     }
 }
